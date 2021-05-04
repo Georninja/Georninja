@@ -1,5 +1,7 @@
 ### Hello World.
 
+I'm just a funny tech guy doing techy stuff.
+
 
 <!--
 **Georninja/Georninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

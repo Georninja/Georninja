@@ -1,6 +1,7 @@
 ### Hello World.
 
 I'm just a funny tech guy doing techy stuff.
+Nice to meet you, though I don't really post much here lol.
 
 
 <!--

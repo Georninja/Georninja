@@ -2,7 +2,8 @@
 
 I'm just a funny tech guy doing techy stuff.
 Nice to meet you, though I don't really post much here lol.
-
+<p align="center">
+  <a href="https://linkedin.com/in/george-mcintyre/">May I potentially interest you with my LinkedIn?</a>
 
 <!--
 **Georninja/Georninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
